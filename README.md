@@ -57,7 +57,7 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 **Security:** XSS, CSRF, validation, auth, sanitization  
 **Architecture:** MVC with complete backend coverage
 
-🔗 [GitHub Repo (coming soon)](https://github.com/your-username)
+🔗 [GitHub Repo](https://github.com/Abdul-Kalam0/Real-Time-Chat-Application)
 
 ---
 
@@ -104,9 +104,9 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/abdulkalam"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdul-kalam-80a580249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="abdulkalamblycomp@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Abdul-Kalam0/Abdul-Kalam0"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
