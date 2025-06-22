@@ -8,37 +8,90 @@
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-🎯 I’m a passionate **backend developer** who enjoys building real-world applications with clean architecture, scalable APIs, and robust security.
+I’m **Abdul Kalam**, a passionate backend developer with a strong focus on writing secure, clean, and scalable backend systems using **Node.js**, **Python**, and **MongoDB**.
 
-🔐 I prioritize **data security**, **input validation**, **token-based auth**, and modern coding standards.
+⚡ I'm comfortable working with **AI tools** like **GitHub Copilot** to speed up development, debug faster, and improve code quality.
 
-⚡ I actively leverage **AI tools** like **GitHub Copilot** to improve code quality and development speed — embracing the future of collaborative and intelligent coding.
-
-💡 I believe in writing **modular, well-tested code** using the **MVC architecture** and following industry best practices.
+💡 I follow modular principles and **MVC architecture**, and I value clean, testable code that is production-ready.
 
 ---
 
-### 🔧 Tech Stack
+## 🎯 Interests
 
-#### Languages  
+- Backend Development (RESTful APIs, MVC, DB modeling)
+- Real-time Web Applications with **Socket.io**
+- API Security & Data Protection
+- Authentication & Authorization (JWT, OAuth)
+- Database Design (MongoDB, MySQL, NoSQL)
+- AI-assisted Development
+
+---
+
+## 📚 Currently Learning
+
+- Docker & Kubernetes Basics  
+- Advanced MongoDB Performance Tuning  
+- API Rate Limiting and Throttling  
+- OAuth2 + Session Management in Microservices
+
+---
+
+## 🚀 Projects
+
+### 💬 Real-Time Chat Application
+
+> A **fully secured and scalable** real-time chat system using Socket.io and MongoDB.
+
+#### Key Features:
+
+- 💬 Live chat using **Socket.io**
+- 🔐 **JWT-based authentication** with **bcrypt** password hashing
+- 🧠 Follows a clean **MVC architecture**
+- ✅ Secure cookie handling & data sanitization
+- 🧰 Backend built using **Node.js**, **Express.js**, **MongoDB**
+- 📂 Modular, production-ready codebase — all written by me
+
+**Stack:** Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, bcrypt  
+**Security:** XSS, CSRF, validation, auth, sanitization  
+**Architecture:** MVC with complete backend coverage
+
+🔗 [GitHub Repo (coming soon)](https://github.com/your-username)
+
+---
+
+## 🔐 Security Practices
+
+- 🔒 Password hashing using `bcrypt`
+- 🔐 JWT-based authentication & secure sessions
+- 🧼 Input sanitization and validation
+- 🍪 Secure cookie handling
+- 🛡️ Protection against XSS, CSRF, injection attacks
+- 🚫 Strict CORS policies and HTTP headers
+- ✅ Following OWASP standards
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 🔧 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### Frameworks & Libraries  
+### ⚙️ Frameworks & Libraries  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-#### Databases  
+### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=sql&logoColor=white)  
 ![ORM](https://img.shields.io/badge/-ORM-Mongoose%2FSequelize-informational)
 
-#### Tools & Platforms  
+### 🛠️ Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
@@ -48,46 +101,7 @@
 
 ---
 
-### 🔐 Security Practices
-
-✅ Password hashing using `bcrypt`  
-✅ Authentication & Authorization via `JWT`  
-✅ Cookie-based session handling  
-✅ Request validation and sanitization  
-✅ Protection against XSS, CSRF, Injection attacks
-
----
-
-### 🚀 Featured Project: Real-Time Chat App
-
-> A secure and scalable **Real-Time Chat Application** designed with Socket.io and full backend architecture by me.
-
-#### 📌 Features:
-- 💬 Real-time messaging with **Socket.io**
-- 🧰 Built using **Node.js, Express, MongoDB**
-- 🔐 Secure **JWT authentication**, **bcrypt** password hashing
-- 🛡️ Input sanitization, validation, and cookie/session handling
-- 🧠 Clean and maintainable **MVC architecture**
-- 🔍 Fully modularized and production-ready backend
-
-**Tech Stack:** Node.js, Express, MongoDB, Mongoose, Socket.io, JWT, bcrypt  
-**Architecture:** MVC  
-**Security:** Implemented end-to-end by me
-
-🔗 [GitHub Repo (coming soon)](https://github.com/your-username)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkalam&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkalam&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
