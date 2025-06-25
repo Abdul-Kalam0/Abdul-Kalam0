@@ -45,7 +45,6 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 > A **fully secured and scalable** real-time chat system using Socket.io and MongoDB.
 
 #### Key Features:
-
 - 💬 Live chat using **Socket.io**
 - 🔐 **JWT-based authentication** with **bcrypt** password hashing
 - 🧠 Follows a clean **MVC architecture**
@@ -55,9 +54,35 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 
 **Stack:** Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, bcrypt  
 **Security:** XSS, CSRF, validation, auth, sanitization  
-**Architecture:** MVC with complete backend coverage
+**Architecture:** MVC with complete backend coverage  
 
-🔗 [GitHub Repo](https://github.com/Abdul-Kalam0/Real-Time-Chat-Application)
+🔗 [GitHub Repo – Real‑Time Chat Application](https://github.com/Abdul-Kalam0/Real-Time-Chat-Application)
+
+
+---
+
+### 🌐 OAuth Demo: Google & GitHub Login
+
+A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth2 login flows, using MVC architecture and `cookie-parser`. After authentication:
+
+- **GitHub OAuth** fetches and displays:
+  - Username & avatar
+  - Followers / following counts
+  - Both public **and private** repos  
+
+- **Google OAuth** simply confirms:
+  > “You are connected as …”
+
+#### 🔧 Tech Highlights:
+- MVC structure: `controllers`, `services`, `models`, `routes`, and `views`
+- Secure, HTTP‑only cookies via `cookie-parser` (handled through `res.cookie(...)`)
+- Tokens stored in short-lived cookies (`maxAge: 1 minute`) to minimize risk
+
+**Stack:** Node.js, Express.js, cookie-parser, OAuth2, MVC  
+**Security:** httpOnly cookies, modular codebase, secure session handling  
+
+
+🔗 [GitHub Repo – OAuth Demo (Google & GitHub Login)](https://github.com/Abdul-Kalam0/OAuth-Backend)
 
 ---
 
