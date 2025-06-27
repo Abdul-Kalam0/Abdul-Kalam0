@@ -112,9 +112,8 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
 
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=sql&logoColor=white)  
-![ORM](https://img.shields.io/badge/-ORM-Mongoose%2FSequelize-informational)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
