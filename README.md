@@ -86,9 +86,7 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
 - 🔐 JWT-based authentication & secure sessions
 - 🧼 Input sanitization and validation
 - 🍪 Secure cookie handling
-- 🛡️ Protection against XSS, CSRF, injection attacks
 - 🚫 Strict CORS policies and HTTP headers
-- ✅ Following OWASP standards
 
 ---
 ## 📬 Reach Out
