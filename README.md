@@ -90,7 +90,7 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
 
 ## 📬 Reach Out
 
-<p align="center">
+<p align="center" style="font-size: 12px;">
   <a href="mailto:abdulkalamblycomp@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -118,6 +118,7 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
   </a>
   &nbsp;<strong>Abdul Kalam</strong>
 </p>
+
 
 ---
 
