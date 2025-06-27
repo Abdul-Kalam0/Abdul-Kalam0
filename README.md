@@ -99,25 +99,26 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;<strong>abdulkalamblycomp@gmail.com</strong>
-  <br><br>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="tel:+918979304521">
     <img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   &nbsp;<strong>+91-8979304521</strong>
-  <br><br>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/abdul-kalam-80a580249/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;<strong>Abdul Kalam</strong>
-  <br><br>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Abdul-Kalam0/Abdul-Kalam0/blob/main/Abdul_Kalam.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Resume-0A66C2?style=flat&logo=readme&logoColor=white" alt="Resume" />
   </a>
   &nbsp;<strong>Abdul Kalam</strong>
 </p>
+
 
 
 ---
