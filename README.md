@@ -116,7 +116,7 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
   <a href="https://github.com/Abdul-Kalam0/Abdul-Kalam0/raw/main/Abdul_Kalam.pdf" download>
     <img src="https://img.shields.io/badge/-Download-4CAF50?style=flat&logo=readme&logoColor=white" alt="Download Resume" />
   </a>
-  &nbsp;<strong>Abdul Kalam</strong>
+  &nbsp;<strong></strong>
 </p>
 
 
