@@ -12,11 +12,10 @@
 
 I’m **Abdul Kalam**, a passionate backend developer with a strong focus on writing secure, clean, and scalable backend systems using **Node.js**, **Python**, and **MongoDB**.
 
-⚡ I'm comfortable working with **AI tools** like **GitHub Copilot** to speed up development, debug faster, and improve code quality.
-
-💡 I follow modular principles and **MVC architecture**, and I value clean, testable code that is production-ready.
+⚡ I build clean, production-ready code with GitHub Copilot, following modular design and MVC architecture. 🚀
 
 ---
+
 ## 🛠️ Skills & Tech Stack
 
 ### 🔧 Languages  
@@ -60,21 +59,20 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth2 login flows, using MVC architecture and `cookie-parser`. After authentication:
 
 - **GitHub OAuth** fetches and displays:
-  - Username & avatar
-  - Followers / following counts
+  - Username & avatar  
+  - Followers / following counts  
   - Both public **and private** repos  
 
-- **Google OAuth** simply confirms:
+- **Google OAuth** simply confirms:  
   > “You are connected as …”
 
 #### 🔧 Tech Highlights:
 - MVC structure: `controllers`, `services`, `models`, `routes`, and `views`
-- Secure, HTTP‑only cookies via `cookie-parser` (handled through `res.cookie(...)`)
+- Secure, HTTP‑only cookies via `cookie-parser`
 - Tokens stored in short-lived cookies (`maxAge: 1 minute`) to minimize risk
 
 **Stack:** Node.js, Express.js, cookie-parser, OAuth2, MVC  
 **Security:** httpOnly cookies, modular codebase, secure session handling  
-
 
 🔗 [GitHub Repo – OAuth Demo (Google & GitHub Login)](https://github.com/Abdul-Kalam0/OAuth-Backend)
 
@@ -82,13 +80,14 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
 
 ## 🔐 Security Practices
 
-- 🔒 Password hashing using `bcrypt`
-- 🔐 JWT-based authentication & secure sessions
-- 🧼 Input sanitization and validation
-- 🍪 Secure cookie handling
-- 🚫 Strict CORS policies and HTTP headers
+- 🔒 Password hashing using `bcrypt`  
+- 🔐 JWT-based authentication & secure sessions  
+- 🧼 Input sanitization and validation  
+- 🍪 Secure cookie handling  
+- 🚫 Strict CORS policies and HTTP headers  
 
 ---
+
 ## 📬 Reach Out
 
 <p align="center">
