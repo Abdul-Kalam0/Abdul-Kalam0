@@ -17,24 +17,19 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 💡 I follow modular principles and **MVC architecture**, and I value clean, testable code that is production-ready.
 
 ---
+## 🛠️ Skills & Tech Stack
 
-## 🎯 Interests
+### 🔧 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- Backend Development (RESTful APIs, MVC, DB modeling)
-- Real-time Web Applications with **Socket.io**
-- API Security & Data Protection
-- Authentication & Authorization (JWT, OAuth)
-- Database Design (MongoDB, MySQL, NoSQL)
-- AI-assisted Development
+### 🚀 Technologies / Frameworks  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
----
+### 🗄️ Databases & ORMs  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 
-## 📚 Currently Learning
-
-- Docker & Kubernetes Basics  
-- Advanced MongoDB Performance Tuning  
-- API Rate Limiting and Throttling  
-- OAuth2 + Session Management in Microservices
+### 🧰 Developer Tools  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-1DB954?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -57,7 +52,6 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 **Architecture:** MVC with complete backend coverage  
 
 🔗 [GitHub Repo – Real‑Time Chat Application](https://github.com/Abdul-Kalam0/Real-Time-Chat-Application)
-
 
 ---
 
@@ -95,33 +89,6 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
 - 🛡️ Protection against XSS, CSRF, injection attacks
 - 🚫 Strict CORS policies and HTTP headers
 - ✅ Following OWASP standards
-
----
-
-## 🛠️ Skills & Tech Stack
-
-### 🔧 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### ⚙️ Frameworks & Libraries  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-
-
-### 🛠️ Tools & Platforms  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-1DB954?style=flat&logo=github&logoColor=white)
 
 ---
 
