@@ -97,16 +97,17 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
   &nbsp;<strong>abdulkalamblycomp@gmail.com</strong>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="tel:+918979304521">
-    <img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  &nbsp;<strong>+91-8979304521</strong>
-  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/abdul-kalam-80a580249/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;<strong>Abdul Kalam</strong>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="tel:+918979304521">
+    <img src="https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  &nbsp;<strong>+91-8979304521</strong>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Abdul-Kalam0/Abdul-Kalam0/blob/main/Abdul_Kalam.pdf" target="_blank">
