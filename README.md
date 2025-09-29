@@ -34,6 +34,23 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 
 ## 🚀 Projects
 
+📅 **Meetup Application**  
+A full-stack MERN app to discover, search, and explore online & offline events.
+
+#### Key Features:
+- 🎨 Responsive UI with React 19 + Bootstrap 5
+- 🔍 Event search & filtering (online/offline/all)
+- 📖 Event details with speakers, price, and location
+- 📂 Reusable components & custom Axios hooks
+- ⚡ RESTful API with Express & MongoDB
+- ✅ Mongoose schema validation & error handling
+- 🌍 Deployed on Vercel (frontend + backend)
+
+**Stack:** React 19, Vite, Bootstrap 5, Node.js, Express.js, MongoDB, Mongoose, Axios  
+**Architecture:** Modular MERN structure with separate frontend & backend
+
+🔗 [GitHub Repo – MeetUp](https://github.com/Abdul-Kalam0/MeetUp)
+
 ### 💬 Real-Time Chat Application
 
 > A **fully secured and scalable** real-time chat system using Socket.io and MongoDB.
