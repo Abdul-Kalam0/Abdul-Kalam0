@@ -43,7 +43,7 @@ A smart and interactive **AI-powered chatbot** built with **Gemini API**, featur
 ## 🚀 Features
 
 - ⚡ **Real-time response streaming** (ChatGPT-style)
-- 💾 **Chat history **Reset on refresh**
+- 💾 **Chat history **Reset on refresh****
 - 🎨 **Clean UI** with modern auto-scroll and typing indicator (if frontend exists)
 - 🧠 **AI responses powered by OpenAI**
 - 🧱 Fully **Modular & Scalable Backend (MVC pattern)**
