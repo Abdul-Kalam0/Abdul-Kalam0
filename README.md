@@ -34,6 +34,29 @@ I’m **Abdul Kalam**, a passionate backend developer with a strong focus on wri
 
 ## 🚀 Projects
 
+# 🤖 AI-Chatbot
+
+A smart and interactive **AI-powered chatbot** built with **Gemini API**, featuring **real-time conversation**, **session persistence**, and a **modular, scalable backend architecture**.
+
+---
+
+## 🚀 Features
+
+- ⚡ **Real-time response streaming** (ChatGPT-style)
+- 💾 **Chat history **Reset on refresh**
+- 🎨 **Clean UI** with modern auto-scroll and typing indicator (if frontend exists)
+- 🧠 **AI responses powered by OpenAI**
+- 🧱 Fully **Modular & Scalable Backend (MVC pattern)**
+- 🔒 Secure with proper **session handling / sanitization / dotenv**
+
+**Stack:** React 19, Vite, Bootstrap 5, Node.js, Express.js, MongoDB, Mongoose, Axios  
+**Architecture:** Modular MERN structure with separate frontend & backend
+
+🔗 [Live - AI-ChatBot](https://ai-chatbot001.vercel.app)
+
+🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/AI-ChatBot)
+
+
 📅 **Meetup Application**  
 A full-stack MERN app to discover, search, and explore online & offline events.
 
