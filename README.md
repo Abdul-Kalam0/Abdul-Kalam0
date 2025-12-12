@@ -10,8 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Abdul Kalam**, a passionate backend developer with a strong focus on writing secure, clean, and scalable backend systems using **Node.js**, **Python**, and **MongoDB**.
-
+I'm a **Full Stack Developer** who loves building secure, scalable, and high-performance applications.
 ⚡ I build clean, production-ready code with GitHub Copilot, following modular design and MVC architecture. 🚀
 
 ---
