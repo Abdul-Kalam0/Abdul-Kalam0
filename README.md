@@ -47,9 +47,9 @@ A scalable and modern **full-stack image management platform** built with the **
 **Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Google OAuth, Axios
 **Architecture:** Modular MERN structure with separate frontend & backend
 
-🔗 [Live - AI-ChatBot](https://cloud-img-001.vercel.app)
+🔗 [Live - CloudImg](https://cloud-img-001.vercel.app)
 
-🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/CloudImg)
+🔗 [GitHub Repo – CloudImg](https://github.com/Abdul-Kalam0/CloudImg)
 
 ---
 
@@ -73,9 +73,9 @@ A robust and scalable **CRM (Customer Relationship Management) system** designed
 **Stack:** React.js, Bootstrap CSS, Node.js, Express.js, MongoDB, JWT, Axios
 **Architecture:** Scalable MERN architecture with RBAC and modular backend design
 
-🔗 [Live - AI-ChatBot](https://anvaya-crm-001.vercel.app/)
+🔗 [Live - Anvaya - CRM Platform](https://anvaya-crm-001.vercel.app/)
 
-🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/Anvaya-CRM-Frontend)
+🔗 [GitHub Repo – Anvaya - CRM Platform](https://github.com/Abdul-Kalam0/Anvaya-CRM-Frontend)
 
 ---
 
