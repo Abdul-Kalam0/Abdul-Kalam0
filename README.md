@@ -17,21 +17,68 @@ I'm a **Full Stack Developer** who loves building secure, scalable, and high-per
 
 ## 🛠️ Skills & Tech Stack
 
-### 🔧 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 🚀 Technologies / Frameworks  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### 🗄️ Databases & ORMs  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-
-### 🧰 Developer Tools  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-1DB954?style=flat&logo=github&logoColor=white)
+## 🚀 Tech Stack
+💻 Languages: C++, JavaScript, TypeScript, Python  
+🗄️ Databases: MySQL, MongoDB  
+🎨 Frontend: React.js, Tailwind CSS, Bootstrap, HTML5, CSS3  
+⚙️ Backend: Node.js, Express.js, REST APIs, JWT, Google OAuth, bcrypt, Joi, Middleware, MVC  
+🛠️ Tools: Git, GitHub, GitHub Actions, Webpack, Postman, VS Code, OpenAI, Google Gemini  
+🚀 Deployment: Vercel, Render  
 
 ---
 
 ## 🚀 Projects
+
+# 📸 CloudImg
+
+A scalable and modern **full-stack image management platform** built with the **MERN stack**, featuring **image uploads, album organization, sharing, and performance-optimized UI**.
+
+---
+
+## 🚀 Features
+
+* 🖼️ **Upload & manage 100+ images** with albums, favorites, and comments
+* 🔐 **Secure authentication** using JWT cookies & Google OAuth
+* ⚙️ **10+ REST API endpoints** with clean backend architecture
+* ⚡ **Optimized UI performance** (30% faster load time) using React & Tailwind
+* 🧱 Fully **Modular & Scalable Backend (MVC pattern)**
+* ☁️ Efficient **cloud-based image handling system**
+
+**Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Google OAuth, Axios
+**Architecture:** Modular MERN structure with separate frontend & backend
+
+🔗 [Live - AI-ChatBot](https://cloud-img-001.vercel.app)
+
+🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/CloudImg)
+
+---
+
+# 📊 Anvaya - CRM Platform
+
+A robust and scalable **CRM (Customer Relationship Management) system** designed to manage large-scale leads, automate workflows, and improve productivity with analytics.
+
+---
+
+## 🚀 Features
+
+* 📈 **Manage 5000+ leads** with efficient and scalable schema design
+* ⚙️ **25+ REST API endpoints** for complete CRM functionality
+* 🔑 **Role-Based Access Control (RBAC)** for secure user management
+* 📊 **Analytics dashboards** to track performance and insights
+* 🤖 **Automated follow-ups & reporting system**
+* ⚡ Reduced manual work by **75%** and improved processing speed by **40%**
+* 📉 Improved task completion rate by **20%**
+* 🧱 Fully **Modular & Scalable Backend (MVC pattern)**
+
+**Stack:** React.js, Bootstrap CSS, Node.js, Express.js, MongoDB, JWT, Axios
+**Architecture:** Scalable MERN architecture with RBAC and modular backend design
+
+🔗 [Live - AI-ChatBot](https://anvaya-crm-001.vercel.app/)
+
+🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/Anvaya-CRM-Frontend)
+
+---
+
 
 # 🤖 AI-Chatbot
 
@@ -51,9 +98,11 @@ A smart and interactive **AI-powered chatbot** built with **Gemini API**, featur
 **Stack:** React 19, Vite, Bootstrap 5, Node.js, Express.js, MongoDB, Mongoose, Axios  
 **Architecture:** Modular MERN structure with separate frontend & backend
 
-🔗 [Live - AI-ChatBot](https://ai-chatbot001.vercel.app)
+🔗 [Live - CloudImg](https://ai-chatbot001.vercel.app)
 
 🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/AI-ChatBot)
+
+---
 
 
 📅 **Meetup Application**  
