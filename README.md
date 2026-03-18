@@ -98,7 +98,7 @@ A smart and interactive **AI-powered chatbot** built with **Gemini API**, featur
 **Stack:** React 19, Vite, Bootstrap 5, Node.js, Express.js, MongoDB, Mongoose, Axios  
 **Architecture:** Modular MERN structure with separate frontend & backend
 
-🔗 [Live - CloudImg](https://ai-chatbot001.vercel.app)
+🔗 [Live - AI-ChatBot](https://ai-chatbot001.vercel.app)
 
 🔗 [GitHub Repo – AI-ChatBot](https://github.com/Abdul-Kalam0/AI-ChatBot)
 
