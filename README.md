@@ -198,7 +198,7 @@ A Node.js & Express.js application demonstrating **Google** and **GitHub** OAuth
   &nbsp;<strong>+91-8979304521</strong>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/Abdul-Kalam0/Abdul-Kalam0/blob/main/Abdul_Kalam.pdf" target="_blank">
+  <a href="https://github.com/Abdul-Kalam0/Abdul-Kalam0/blob/main/Abdul_Kalam_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Resume-0A66C2?style=flat&logo=readme&logoColor=white" alt="View Resume" />
   </a>
 
