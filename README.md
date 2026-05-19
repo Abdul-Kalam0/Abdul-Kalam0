@@ -29,6 +29,35 @@ I'm a **Full Stack Developer** who loves building secure, scalable, and high-per
 
 ## 🚀 Projects
 
+# 🤖 InterviewMock
+
+A modern **AI-powered mock interview platform** built with the **MERN stack**, featuring **AI-generated technical interviews, secure authentication, timed interview workflows, and automated performance feedback**.
+
+---
+
+## 🚀 Features
+
+* 🤖 **AI-generated technical interview questions** using Llama 3.4
+* ⏳ Real-time **timed interview workflow** with automated feedback scoring
+* 🔐 **Secure authentication** using JWT cookies & Google OAuth
+* ⚙️ Built **15+ REST API endpoints** with scalable backend architecture
+* 🛡️ Implemented **protected routes, rate limiting, and invalid route handling**
+* ⚡ Modern **SaaS-style responsive UI** optimized using React & Tailwind CSS
+* 📊 AI-driven **performance analysis & feedback generation**
+* 🧱 Fully **Modular & Scalable Backend (MVC pattern)**
+
+**Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Google OAuth, Axios, Llama 3.4
+
+**Architecture:** Modular MERN structure with separate frontend & backend
+
+🔗 [Live – InterviewMock](https://interviewmock-001.vercel.app)
+
+🔗 [GitHub Repo – InterviewMock](https://github.com/Abdul-Kalam0/InterviewMock)
+
+---
+
+
+
 # 📸 CloudImg
 
 A scalable and modern **full-stack image management platform** built with the **MERN stack**, featuring **image uploads, album organization, sharing, and performance-optimized UI**.
