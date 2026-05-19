@@ -25,18 +25,6 @@ Building scalable web applications with React, Node.js & AI integrations
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Kalam0&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Kalam0&theme=tokyonight" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🤖 InterviewMock
