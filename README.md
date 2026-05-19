@@ -27,7 +27,7 @@ Building scalable web applications with React, Node.js & AI integrations
 
 # 🚀 Featured Projects
 
-## 🤖 InterviewMock
+## 🤖 InterviewMock-AI
 
 AI-powered mock interview platform featuring AI-generated technical interviews, secure authentication, timed interview workflows, and automated performance feedback.
 
