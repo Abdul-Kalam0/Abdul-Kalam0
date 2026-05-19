@@ -52,7 +52,7 @@ A modern **AI-powered mock interview platform** built with the **MERN stack**, f
 
 🔗 [Live – InterviewMock](https://interviewmock-001.vercel.app)
 
-🔗 [GitHub Repo – InterviewMock](https://github.com/Abdul-Kalam0/InterviewMock)
+🔗 [GitHub Repo – InterviewMock](https://github.com/Abdul-Kalam0/InterviewMock-AI)
 
 ---
 
