@@ -102,25 +102,6 @@ Secure real-time chat platform using Socket.io with scalable backend architectur
 
 ---
 
-## 🤖 AI ChatBot
-
-Interactive AI chatbot powered by Gemini API featuring real-time conversations and scalable backend architecture.
-
-### 🚀 Highlights
-- ⚡ Real-time AI responses
-- 🧠 Gemini/OpenAI-powered conversation workflow
-- 💾 Session handling & modular backend architecture
-- 🎨 Modern frontend workflow with responsive UI
-- 🔒 Secure environment configuration & sanitization
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API, Axios
-
-🔗 Live Demo: https://ai-chatbot001.vercel.app
-
-🔗 GitHub Repo: https://github.com/Abdul-Kalam0/AI-ChatBot
-
----
-
 ## 🔐 Security Practices
 
 - 🔒 Password hashing using bcrypt
